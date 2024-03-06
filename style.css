@@ -5,7 +5,7 @@
   }
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #848B79;
+    background-color: #fffdd0;
     position: relative;
     padding-bottom: 58px;
     min-height: 100vh;
@@ -47,7 +47,7 @@
   
   header {
     text-align: center;
-    background-color: #E2725B;
+    background-color: #E2725B;  
     color: #fff;
     padding: 50px;
   }
